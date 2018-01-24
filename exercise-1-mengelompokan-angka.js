@@ -11,7 +11,7 @@ Contoh jika arr inputan adalah [45, 20, 21, 2, 7] maka output: [ [ 20, 2 ], [ 7 
 
 PSEUDOCODE
 INISIALISASI kumpulanKelompok = [], kelompokGenap = [], kelompokGanjil = [], kelompokKelipatan3 = []
-BACA inputan arr dari kiri ke kanan
+LOOPING inputan arr dari kiri ke kanan
 
 
 */
