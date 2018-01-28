@@ -7,7 +7,7 @@ Function akan me-return string yang telah bersih dari berbagai simbol, hanya men
 */
 
 function hapusSimbol(str) {
-  // you can only write your code here!
+  return str.match(/\w/g).join('')
 }
 
 // TEST CASES
